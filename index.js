@@ -1,7 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-<script>
 // Complete the following procedure, the 'name' variable in all letters to uppercase, output: ' 'HELLO' '.
 var name = 'hello';
 name = name.toUpperCase();
@@ -29,11 +25,3 @@ res = money.substring(1, 3);
 alert(res);
 
 //TODO write your code here...
-
-</script>
-<title>Page Title</title>
-</head>
-<body>
-
-</body>
-</html>
